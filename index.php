@@ -11,7 +11,7 @@ if (isset($_POST['BTEnvia'])){
  
 	//REMETENTE --> ESTE EMAIL TEM QUE SER VALIDO DO DOMINIO
  	//====================================================
-	$email_remetente = "formte@herokuapp.com"; // deve ser um email do dominio
+	$email_remetente = "davidson.bp@hotmail.com"; // deve ser um email do dominio
 	//====================================================
  
  
