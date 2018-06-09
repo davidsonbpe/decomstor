@@ -1,0 +1,3 @@
+<?php
+header("Location: https://graph.facebook.com/129689837120720/feed?access_token=EAACEdEose0cBAFMqSulf5nmY1bJOrHYs8NnoeY8ZCu4jIOgZCMGAW7A1Q4CNf3ya8FdACcfiXj7zaA6aZADFcpvfH1coteL9NPWTD8m2ALCreZCi33ZBuFa56dCOHWpPavmMOAJTQom08OEaPUofO9hJTtztdB4wBpF4XZB1TacNYrwHw7zHndwZC5Ysagasl0JATUVLuGlEgZDZD&fields=picture,full_picture,message,created_time,link");
+?>
